@@ -1,5 +1,5 @@
 class Pessoa
-    def initialize(cont = 1)
+    def initialize(cont = 1) # parâmetro sobrescreve inicialização
         cont.times do |i|
           puts "Inicializando... #{i}"
         end

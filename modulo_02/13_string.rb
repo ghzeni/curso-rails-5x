@@ -1,3 +1,4 @@
+# reabrir classe
 class String
     def inverter
         self.reverse

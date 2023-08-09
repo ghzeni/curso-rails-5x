@@ -1,3 +1,5 @@
+# accessors habilitam get e set sem precisar explicitar
+
 class Pessoa
     attr_accessor :nome
 end
